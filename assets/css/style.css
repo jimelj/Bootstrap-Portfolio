@@ -117,3 +117,9 @@ textarea {
   padding: 10px;
   margin: 10px 0;
 }
+
+.caption, .caption h3, a:hover  {
+  background-color: #4aaaa5;
+  color: #fff;
+  text-decoration: none;
+}
